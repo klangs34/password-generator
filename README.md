@@ -1,8 +1,8 @@
 # password-generator
-[This](https://klangs34.github.io/) is a random password generator that accepts user input to determine the type of password generated (i.e. length and/or special characters used).
+[This](https://klangs34.github.io/password-generator/) is a random password generator that accepts user input to determine the type of password generated (i.e. length and/or special characters used).
 
 # password-generator ui
-![Image of password-generator](https://klangs34.github.com/images/passwordGenerator.png)
+![Image of password-generator](https://klangs34.github.io/password-generator/images/passwordGenerator.png)
 
 ## Installation
 1. Fork the respository
