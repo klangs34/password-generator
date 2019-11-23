@@ -27,6 +27,7 @@ var showPass = document.getElementById('password');
 
 //clipboard copy function
 function copyText(event) {
+    showPass.select();
     document.execCommand("copy");
 }
 
@@ -117,6 +118,6 @@ function generatePass(event) {
         alert("At least 1 character type must be chosen!  Try again.")
     }
     //output password to browser
-    showPass.textContent = newPassword;
+    showPass.value = newPassword;
 
 }
